@@ -2,7 +2,7 @@
 
 #### Epicodus Week Three | Introduction to Programming Arrays and Looping Practice: JavaScript Arrays, 03.30.2020
 
-#### By _**Chisato Murakami & Christine Augustine**
+#### By **Chisato Murakami & Christine Augustine**
 
 
 ## Description
