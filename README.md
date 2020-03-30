@@ -1,4 +1,4 @@
-# [Favorite Things](https://christinereina.github.io/epicodus-favorite_things/)
+# [Ice Cream!](https://christinereina.github.io/epicodus-icecream/)
 
 #### Epicodus Week Three | Introduction to Programming Arrays and Looping Practice: JavaScript Arrays, 03.30.2020
 
@@ -7,18 +7,18 @@
 
 ## Description
 
-Use our form to see your favorite things!
+A fictional ice cream shop needs help choosing their newest flavors!
 
 ## Setup/Installation Requirements
 
 Clone the project's github repository from your computer's Terminal (make sure you are on your Desktop)
 
 * cd desktop
-* git clone https://github.com/christinereina/epicodus-favorite_things
+* git clone https://github.com/christinereina/epicodus-icecream
 
 Open folder and drag/drop the index.html file into your preferred web browser
 
-Alternatively, you can also view the webpage by clicking [here](https://christinereina.github.io/epicodus-favorite_things/git)
+Alternatively, you can also view the webpage by clicking [here](https://christinereina.github.io/epicodus-icecream/)
 
 Lastly, enjoy our site!
 

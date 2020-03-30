@@ -1,1 +1,22 @@
+body {
+  padding: 50px;
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+}
 
+h1 {
+  font-family: 'Spicy Rice', cursive;
+  color: palevioletred;
+  text-align: center;
+  font-size: 60px;
+}
+
+h2,h3 {
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+}
+
+.container {
+height: 400px;
+width: auto;
+}
