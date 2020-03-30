@@ -1,8 +1,8 @@
-# [Ice Cream!](https://christinereina.github.io/epicodus-icecream/)
+# [Chee's Ice Cream!](https://christinereina.github.io/epicodus-icecream/)
 
 #### Epicodus Week Three | Introduction to Programming Arrays and Looping Practice: JavaScript Arrays, 03.30.2020
 
-#### By _**Christine Augustine & Chisato Murakami**_
+#### By _**Chisato Murakami & Christine Augustine**
 
 
 ## Description
@@ -28,9 +28,9 @@ n/a
 
 ## Support and contact details
 
-(づ｡◕‿‿◕｡)づ (づ｡◕‿‿◕｡)づ (づ｡◕‿‿◕｡)づ
+( ↀωↀ)✧ ( ↀωↀ)✧ ( ↀωↀ)✧
 
-Feel free to say hello! Additionally, if you have any questions, suggestions and/or feedback, please don't hesitate to contact me.
+Feel free to say hello! Additionally, if you have any questions, suggestions and/or feedback, please don't hesitate to contact us.
 
 Christine Augustine's email:
 _blacchoy@gmail.com_
